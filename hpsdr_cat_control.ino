@@ -24,7 +24,7 @@
 *  Uses the encoder library from https://github.com/mprograms/SimpleRotary
 *  Uses the bounce2 library from https://github.com/thomasfredericks/Bounce2/wiki
 *  
-*  Tested using Keyes KY-040 rotary encoders
+*  Tested using Keyes KY-040 rotary encoders and seeeduino xiao microcontroller.
 */
 
 #include <SimpleRotary.h>
